@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Anton - mobile developer!</h2>
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Hi+there+👋,+I'm+Anton+-+mobile+developer!.++++++++++)](https://git.io/typing-svg)</h2>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Toshidze&theme=ayu-mirage&show_icons=true&count_private=true)
 
