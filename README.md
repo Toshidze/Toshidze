@@ -1,5 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Anton - mobile developer!</h2>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Toshidze&theme=highcontrast&show_icons=true&count_private=true)
+
 <!--
 **Toshidze/Toshidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
