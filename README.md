@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Hi+there+👋,+I'm+Anton+-+mobile+developer!++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&color=62C9F7&center=true&vCenter=true&width=500&lines=Hi+there+👋,+I'm+Anton+-+mobile+developer!++++++++++)](https://git.io/typing-svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Toshidze&theme=ayu-mirage&show_icons=true&count_private=true)
 
